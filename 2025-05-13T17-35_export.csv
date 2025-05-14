@@ -1,0 +1,6 @@
+﻿,Customer ID,TotalSpend,PurchaseFrequency,AvgBasketSize,AvgSpendPerTransaction,DistinctCategories,ReturnRate,PreferredPaymentMethod,Gender,Age,RecencyDays,TenureDays
+0,1,6290,3,5,2096.6666666666665,3,0,Credit Card,Female,67,896,1896
+1,2,16481,6,3,2746.8333333333335,4,0.6666666666666666,PayPal,Female,42,680,1747
+2,3,9423,4,3.75,2355.75,3,0,Credit Card,Male,31,830,1941
+3,4,7826,5,3.8,1565.2,4,0.6,Cash,Male,37,1049,1674
+4,5,9769,5,2.6,1953.8,2,0.6,Credit Card,Female,24,1032,1861
